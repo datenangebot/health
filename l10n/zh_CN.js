@@ -226,7 +226,7 @@ OC.L10N.register(
     "actual" : "实际",
     "maximum" : "最大值",
     "The calculated value is valid only for adults. Its base are the tables from the WHO." : "计算值仅对成人有效。它的基础是世界卫生组织的表格。",
-    "Boby mass index (BMI)" : "身体质量指数 (BMI)",
+    "Body mass index (BMI)" : "身体质量指数 (BMI)",
     "Bodyfat" : "体脂",
     "Custom measurement" : "自定义测量",
     "Unit for weight" : "体重单位",

@@ -31,7 +31,7 @@
 		<ActionCheckbox
 			:checked="person.weightColumnBmi"
 			@change="$store.dispatch('setValue', { key: 'weightColumnBmi', value: $event.target.checked })">
-			{{ t('health', 'Boby mass index (BMI)', {}) }}
+			{{ t('health', 'Body mass index (BMI)', {}) }}
 		</ActionCheckbox>
 		<ActionCheckbox
 			:checked="person.weightColumnBodyfat"

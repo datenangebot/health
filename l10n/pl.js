@@ -226,7 +226,7 @@ OC.L10N.register(
     "actual" : "rzeczywisty",
     "maximum" : "maksymalny",
     "The calculated value is valid only for adults. Its base are the tables from the WHO." : "Obliczona wartość dotyczy tylko osób dorosłych. Jej podstawą są tabele z WHO.",
-    "Boby mass index (BMI)" : "Wskaźnik masy ciała (BMI)",
+    "Body mass index (BMI)" : "Wskaźnik masy ciała (BMI)",
     "Bodyfat" : "Tłuszcz",
     "Custom measurement" : "Pomiar niestandardowy",
     "Unit for weight" : "Jednostka wagi",

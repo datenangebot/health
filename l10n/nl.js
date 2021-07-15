@@ -226,7 +226,7 @@ OC.L10N.register(
     "actual" : "actueel",
     "maximum" : "maximum",
     "The calculated value is valid only for adults. Its base are the tables from the WHO." : "De berekende waarde is alleen geldig voor volwassenen. De basis vormen de tabellen van de WHO.",
-    "Boby mass index (BMI)" : "Boby mass index (BMI)",
+    "Body mass index (BMI)" : "Body mass index (BMI)",
     "Bodyfat" : "Lichaamsvet",
     "Custom measurement" : "Maatwerkmeting",
     "Unit for weight" : "Gewichtseenheid",

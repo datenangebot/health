@@ -226,7 +226,7 @@ OC.L10N.register(
     "actual" : "skutečné",
     "maximum" : "maximum",
     "The calculated value is valid only for adults. Its base are the tables from the WHO." : "Vypočítaná hodnota platí pouze pro dospělé osoby. Je založena na tabulkách Světové zdravotnické organizace.",
-    "Boby mass index (BMI)" : "Index tělesné hmotnosti (BMI)",
+    "Body mass index (BMI)" : "Index tělesné hmotnosti (BMI)",
     "Bodyfat" : "Tělesný tuk",
     "Custom measurement" : "Uživatelsky určené měření",
     "Unit for weight" : "Jednotka pro udávání váhy",

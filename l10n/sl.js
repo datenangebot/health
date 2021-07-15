@@ -225,7 +225,7 @@ OC.L10N.register(
     "actual" : "trenutno",
     "maximum" : "največ",
     "The calculated value is valid only for adults. Its base are the tables from the WHO." : "Izračunana vrednost velja le za odrasle. Osnova izračuna je povzeta po povprečnih vrednostih, kot jih objavlja SZO.",
-    "Boby mass index (BMI)" : "Indeks telesne mase (ITM)",
+    "Body mass index (BMI)" : "Indeks telesne mase (ITM)",
     "Bodyfat" : "Telesno maščevje",
     "Custom measurement" : "Meritev po meri",
     "Unit for weight" : "Enota za telesno maso",

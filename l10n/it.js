@@ -148,7 +148,7 @@ OC.L10N.register(
     "Body mass index" : "Indice di massa corporea",
     "Body mass index (BMI)" : "Indice di massa corporea (BMI)",
     "minimum" : "minimo",
-    "Boby mass index (BMI)" : "Indice di massa corporea (BMI)",
+    "Body mass index (BMI)" : "Indice di massa corporea (BMI)",
     "Bodyfat" : "Grasso corporeo",
     "Unit for weight" : "Unità di peso",
     "Custom column name" : "Nome personalizzato della colonna",
